@@ -1,2 +1,2 @@
-# -zel-kurs
+# Ozel-kurs
 ozel kurs
